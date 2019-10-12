@@ -7,6 +7,7 @@
 - [Maven安装教程](https://blog.csdn.net/RabbitInTheGrass/article/details/101836678)
 - [Git安装教程以及github与idea整合](https://blog.csdn.net/RabbitInTheGrass/article/details/102331947)
 - [IDEA 2019.2最新版安装教程](https://blog.csdn.net/RabbitInTheGrass/article/details/101839121)
+- [MySQL8.0安装及配置](https://blog.csdn.net/RabbitInTheGrass/article/details/102223756)
 - [Redis系列教程]()
 #### [SpringBoot学习历程（一）：简单入门](https://blog.csdn.net/RabbitInTheGrass/article/details/101691657)
 #### [SpringBoot学习历程（二）：配置文件详解](https://blog.csdn.net/RabbitInTheGrass/article/details/101915798)
@@ -16,6 +17,7 @@
 #### [SpringBoot学习历程（六）：集成Lombok](https://blog.csdn.net/RabbitInTheGrass/article/details/102022870)
 #### [SpringBoot学习历程（七）：集成Thymeleaf模板引擎](https://blog.csdn.net/RabbitInTheGrass/article/details/102025366)
 #### [SpringBoot学习历程（八）：集成Swagger2（2.9.2版本）构建RESTful API](https://blog.csdn.net/RabbitInTheGrass/article/details/102026732)
+#### [SpringBoot学习历程（九）：SpringBoot2.X集成mybatis和pagehelper分页](https://blog.csdn.net/RabbitInTheGrass/article/details/102326736)
 #### [待补充。。。]()
 
 
