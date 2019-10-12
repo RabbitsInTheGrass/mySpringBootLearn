@@ -13,6 +13,7 @@
 #### [SpringBoot学习历程（三）：Devtools热部署](https://blog.csdn.net/RabbitInTheGrass/article/details/101939629)
 #### [SpringBoot学习历程（四）：个性设置Banner](https://blog.csdn.net/RabbitInTheGrass/article/details/101944857)
 #### [SpringBoot学习历程（五）：集成Logback日志配置](https://blog.csdn.net/RabbitInTheGrass/article/details/101948348)
+#### [SpringBoot学习历程（六）：集成Lombok](https://blog.csdn.net/RabbitInTheGrass/article/details/102022870)
 #### [待补充。。。]()
 
 

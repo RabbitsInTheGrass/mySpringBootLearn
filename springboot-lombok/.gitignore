@@ -1,0 +1,69 @@
+HELP.md
+.mvn/
+/mvnw
+*.cmd
+
+# maven #
+target/
+logs
+
+# Compiled class file
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Log file
+*.log
+*.tmp
+*.temp
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+overlays
+bin
+
+#eclipse
+.classpath
+.project
+.settings/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+# BlueJ files
+*.ctxt
+
+# windows #
+Thumbs.db
+
+# Mac #
+.DS_Store
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+/build/
+
+### VS Code ###
+.vscode/
