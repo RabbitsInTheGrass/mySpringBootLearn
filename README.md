@@ -18,6 +18,7 @@
 #### [SpringBoot学习历程（七）：集成Thymeleaf模板引擎](https://blog.csdn.net/RabbitInTheGrass/article/details/102025366)
 #### [SpringBoot学习历程（八）：集成Swagger2（2.9.2版本）构建RESTful API](https://blog.csdn.net/RabbitInTheGrass/article/details/102026732)
 #### [SpringBoot学习历程（九）：SpringBoot2.X集成mybatis和pagehelper分页](https://blog.csdn.net/RabbitInTheGrass/article/details/102326736)
+#### [SpringBoot学习历程（十）：SpringBoot2.X集成整合Druid](https://blog.csdn.net/RabbitInTheGrass/article/details/102328181)
 #### [待补充。。。]()
 
 
