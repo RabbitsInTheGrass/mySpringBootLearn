@@ -15,7 +15,7 @@
 #### [SpringBoot学习历程（五）：集成Logback日志配置](https://blog.csdn.net/RabbitInTheGrass/article/details/101948348)
 #### [SpringBoot学习历程（六）：集成Lombok](https://blog.csdn.net/RabbitInTheGrass/article/details/102022870)
 #### [SpringBoot学习历程（七）：集成Thymeleaf模板引擎](https://blog.csdn.net/RabbitInTheGrass/article/details/102025366)
-
+#### [SpringBoot学习历程（八）：集成Swagger2（2.9.2版本）构建RESTful API](https://blog.csdn.net/RabbitInTheGrass/article/details/102026732)
 #### [待补充。。。]()
 
 

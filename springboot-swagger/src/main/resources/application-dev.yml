@@ -1,0 +1,12 @@
+server:
+  port: 8080
+
+spring:
+  main:
+    banner-mode: "console"
+  thymeleaf:
+    cache: false
+  swagger:
+    enable: true
+logging:
+  config: classpath:logback-spring.xml
