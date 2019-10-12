@@ -1,2 +1,11 @@
-# springboot
-我的springboot学习之路
+# springboot学习之路
+我的springboot学习之路,在此分享我的经验。  
+博客系统还在搭建。。。（链接对应我的CSDN博客）  
+学习期间参考了很多大神的例子和博客，如有雷同，多多包涵！
+#### 环境的准备：
+- [jdk安装](https://blog.csdn.net/RabbitInTheGrass/article/details/101846666)
+- [Maven安装教程](https://blog.csdn.net/RabbitInTheGrass/article/details/101836678)
+- [Git安装以及github与idea整合](https://blog.csdn.net/RabbitInTheGrass/article/details/102331947)
+- [IDEA2019.2最新版安装](https://blog.csdn.net/RabbitInTheGrass/article/details/101839121)
+- [redis系列教程]()
+#### [SpringBoot学习历程（一）：简单入门](https://blog.csdn.net/RabbitInTheGrass/article/details/101691657)
