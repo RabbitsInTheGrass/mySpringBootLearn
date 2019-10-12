@@ -14,6 +14,8 @@
 #### [SpringBoot学习历程（四）：个性设置Banner](https://blog.csdn.net/RabbitInTheGrass/article/details/101944857)
 #### [SpringBoot学习历程（五）：集成Logback日志配置](https://blog.csdn.net/RabbitInTheGrass/article/details/101948348)
 #### [SpringBoot学习历程（六）：集成Lombok](https://blog.csdn.net/RabbitInTheGrass/article/details/102022870)
+#### [SpringBoot学习历程（七）：集成Thymeleaf模板引擎](https://blog.csdn.net/RabbitInTheGrass/article/details/102025366)
+
 #### [待补充。。。]()
 
 
