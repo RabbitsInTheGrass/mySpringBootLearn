@@ -4,10 +4,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.rabbits</groupId>
-    <artifactId>learn</artifactId>
+    <artifactId>springboot-thymeleaf</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>learn</name>
-    <description>springboot quick start</description>
+    <name>springboot-thymeleaf</name>
+    <description>springboot thymeleaf</description>
 
     <!-- Spring Boot 启动父依赖 -->
     <parent>
